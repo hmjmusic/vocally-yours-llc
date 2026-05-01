@@ -22,9 +22,9 @@ export default function About() {
           </h2>
           <div className="space-y-4 text-zinc-400 text-sm leading-relaxed">
             <p>
-              Vocally Yours LLC is a New Jersey-based creative holding company founded by Haley Scheerer.
-              We operate at the intersection of technology, wellness, and artistic expression — building
-              independent ventures that each solve a distinct problem or serve a distinct audience.
+              Vocally Yours LLC is a New Jersey-based creative holding company operating at the
+              intersection of technology, wellness, and artistic expression — building independent
+              ventures that each solve a distinct problem or serve a distinct audience.
             </p>
             <p>
               From AI-powered platforms and event discovery apps to interactive fiction, wellness brands,

@@ -3,8 +3,8 @@ import './globals.css'
 
 export const metadata: Metadata = {
   title: 'Vocally Yours LLC',
-  description: 'A creative holding company building at the intersection of technology, wellness, and art. Founded by Haley Scheerer.',
-  keywords: ['Vocally Yours LLC', 'Haley Scheerer', 'Keystir', 'Snapdolphin', 'creative technology', 'music'],
+  description: 'A creative holding company building at the intersection of technology, wellness, and art.',
+  keywords: ['Vocally Yours LLC', 'Keystir', 'Snapdolphin', 'creative technology', 'wellness', 'music'],
   openGraph: {
     title: 'Vocally Yours LLC',
     description: 'Building at the intersection of technology, wellness, and art.',

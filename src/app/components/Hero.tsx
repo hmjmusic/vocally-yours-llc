@@ -39,7 +39,7 @@ export default function Hero() {
         </p>
 
         <p className="text-sm text-zinc-600 mb-12 tracking-wide">
-          Founded by <span className="text-zinc-400">Haley Scheerer</span>
+          New Jersey, USA
         </p>
 
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
