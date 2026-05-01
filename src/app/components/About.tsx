@@ -1,7 +1,6 @@
 const stats = [
-  { value: '5+', label: 'Active Ventures' },
+  { value: '6+', label: 'Active Ventures' },
   { value: 'NJ', label: 'Based In' },
-  { value: '2024', label: 'Founded' },
   { value: '∞', label: 'Ideas In Progress' },
 ]
 
@@ -40,7 +39,7 @@ export default function About() {
         </div>
 
         {/* Right: Stats */}
-        <div className="grid grid-cols-2 gap-4">
+        <div className="grid grid-cols-3 gap-4">
           {stats.map((s) => (
             <div
               key={s.label}
@@ -52,7 +51,7 @@ export default function About() {
           ))}
 
           {/* Values card */}
-          <div className="col-span-2 rounded-2xl bg-zinc-900/60 border border-white/[0.06] p-6 gradient-border">
+          <div className="col-span-3 rounded-2xl bg-zinc-900/60 border border-white/[0.06] p-6 gradient-border">
             <p className="text-xs text-zinc-600 uppercase tracking-widest mb-3">Core Values</p>
             <div className="flex flex-wrap gap-2">
               {['Intentional', 'Creative', 'Technical', 'Independent', 'Human-first'].map((v) => (

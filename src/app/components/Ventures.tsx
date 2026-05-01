@@ -8,7 +8,7 @@ const ventures = [
     tags: ['AI', 'SaaS', 'Productivity', 'Agents'],
     url: 'https://keystir.com',
     icon: '⚡',
-    status: 'live' as const,
+    status: 'building' as const,
     gradient: 'from-violet-500 to-indigo-500',
   },
   {
@@ -18,7 +18,7 @@ const ventures = [
     tags: ['Events', 'Local', 'Discovery', 'New Jersey'],
     url: 'https://snapdolphin.com',
     icon: '🐬',
-    status: 'live' as const,
+    status: 'building' as const,
     gradient: 'from-cyan-500 to-blue-500',
   },
   {
@@ -27,7 +27,7 @@ const ventures = [
     description: 'An immersive storytelling experience where romance meets interactivity. Character-driven narratives with an in-world phone interface.',
     tags: ['Fiction', 'Interactive', 'Romance', 'Storytelling'],
     icon: '🌊',
-    status: 'active' as const,
+    status: 'building' as const,
     gradient: 'from-rose-500 to-pink-500',
   },
   {
@@ -36,8 +36,17 @@ const ventures = [
     description: 'A coastal-inspired wellness brand offering curated lifestyle guides, meal planning resources, and daily ritual frameworks.',
     tags: ['Wellness', 'Lifestyle', 'Digital Products'],
     icon: '🌿',
-    status: 'active' as const,
+    status: 'building' as const,
     gradient: 'from-emerald-500 to-teal-500',
+  },
+  {
+    name: 'Jersey Home & Heart',
+    tagline: 'Handcrafted Goods & Drop Shipping',
+    description: 'A New Jersey craft fair brand bringing handcrafted home goods to local markets — expanding into e-commerce and drop shipping powered by Keystir.',
+    tags: ['Crafts', 'Home Goods', 'E-Commerce', 'New Jersey'],
+    icon: '🏡',
+    status: 'active' as const,
+    gradient: 'from-yellow-500 to-orange-400',
   },
   {
     name: 'H. M. Scheerer',
