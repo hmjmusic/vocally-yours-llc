@@ -28,6 +28,7 @@ export default function Footer() {
                 { name: 'AisleTea', url: 'https://aisletea.com' },
                 { name: 'My Fate My Love', url: 'https://myfatemylove.com' },
                 { name: 'Lana Cove', url: 'https://lanacove.com' },
+                { name: 'Jersey Home & Heart', url: 'https://jerseyhomeandheart.com' },
                 { name: 'H. M. Scheerer', url: null },
               ].map((v) =>
                 v.url ? (

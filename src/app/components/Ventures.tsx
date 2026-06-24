@@ -76,6 +76,7 @@ const ventures = [
     tagline: 'Handcrafted Goods & Drop Shipping',
     description: 'A New Jersey craft fair brand bringing handcrafted home goods to local markets — expanding into e-commerce and drop shipping powered by Keystir.',
     tags: ['Crafts', 'Home Goods', 'E-Commerce', 'New Jersey'],
+    url: 'https://jerseyhomeandheart.com',
     icon: '🏡',
     status: 'active' as const,
     gradient: 'from-yellow-500 to-orange-400',
