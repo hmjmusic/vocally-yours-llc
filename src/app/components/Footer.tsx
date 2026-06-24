@@ -26,8 +26,8 @@ export default function Footer() {
                 { name: 'Lullkeep', url: 'https://lullkeep.com' },
                 { name: 'CertBell', url: 'https://certbell.com' },
                 { name: 'AisleTea', url: 'https://aisletea.com' },
-                { name: 'My Fate My Love', url: null },
-                { name: 'Lana Cove', url: null },
+                { name: 'My Fate My Love', url: 'https://myfatemylove.com' },
+                { name: 'Lana Cove', url: 'https://lanacove.com' },
                 { name: 'H. M. Scheerer', url: null },
               ].map((v) =>
                 v.url ? (
