@@ -23,6 +23,9 @@ export default function Footer() {
               {[
                 { name: 'Keystir', url: 'https://keystir.com' },
                 { name: 'Snapdolphin', url: 'https://snapdolphin.com' },
+                { name: 'Lullkeep', url: 'https://lullkeep.com' },
+                { name: 'CertBell', url: 'https://certbell.com' },
+                { name: 'AisleTea', url: 'https://aisletea.com' },
                 { name: 'My Fate My Love', url: null },
                 { name: 'Lana Cove', url: null },
                 { name: 'H. M. Scheerer', url: null },

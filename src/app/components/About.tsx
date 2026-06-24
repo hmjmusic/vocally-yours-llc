@@ -1,5 +1,5 @@
 const stats = [
-  { value: '6+', label: 'Active Ventures' },
+  { value: '9+', label: 'Active Ventures' },
   { value: 'NJ', label: 'Based In' },
   { value: '∞', label: 'Ideas In Progress' },
 ]
